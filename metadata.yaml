@@ -1,0 +1,36 @@
+_repo: Harlow-Niles-Higinbotham-A-memoir-with-brief-autobiography-and-extracts-from-speeches-and-let__63558
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: https://en.wikipedia.org/wiki/Eugene_Field
+creator:
+  author:
+    agent_name: Monroe, Harriet
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '42079'
+    url: http://www.gutenberg.org/2009/agents/42079
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Monroe
+description: ''
+gutenberg_issued: '2020-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businessmen -- Illinois -- Chicago -- Biography'
+- !lcsh 'Higinbotham, Harlow N. (Harlow Niles), 1838-1919'
+- !lcc 'F350.5'
+- GITenberg
+title: 'Harlow Niles Higinbotham
+
+  A memoir with brief autobiography and extracts from speeches and letters'
+url: http://www.gutenberg.org/ebooks/63558
