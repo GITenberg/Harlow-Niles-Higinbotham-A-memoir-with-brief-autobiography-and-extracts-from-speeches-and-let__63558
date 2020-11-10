@@ -1,5 +1,5 @@
 _repo: Harlow-Niles-Higinbotham-A-memoir-with-brief-autobiography-and-extracts-from-speeches-and-let__63558
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Field, Eugene
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '238'
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: https://en.wikipedia.org/wiki/Eugene_Field
+covers:
+- cover_type: archival
+  image_path: 63558-h/images/cover.jpg
 creator:
   author:
     agent_name: Monroe, Harriet
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42079
     wikipedia: https://en.wikipedia.org/wiki/Harriet_Monroe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63558#Harlow-Niles-Higinbotham-A-memoir-with-brief-autobiography-and-extracts-from-speeches-and-let_
 gutenberg_issued: '2020-10-26'
 gutenberg_type: Text
 identifiers:
